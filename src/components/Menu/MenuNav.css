@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav_box{
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+.my_shop{
+    font-size: xx-large;
+   font-weight: 800;
+   color: white;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.my_shop:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.cart{
+    cursor: pointer;
+   color: white;
+}
+.cart span:nth-child(1){
+    font-size: 2rem;
+    color:black;
+}
+.cart span:nth-child(2){
+   
+    background-color: rgb(235, 48, 44);
+    color: white;
+    font-weight: bold;  
+border-radius: 5px;
+
+}
+@media screen and (max-width: 480px){
+   .nav_box{
+    padding: 2px 2px;
+    width: 100;
+   } 
+}
+

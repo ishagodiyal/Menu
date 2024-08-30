@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "image":"images/logo.png",
+        "name":"Starters"
+    },
+    {
+        "id":2,
+        "image":"images/salad.jpg",
+         "name":"Salads"
+    },
+    {
+        "id":3,
+        "image":"images/veget.jpg",
+         "name":" Special vegeterian"
+    },
+    {
+        "id":4,
+        "image":"images/nonveg.jpg",
+         "name":"Special Non-Veg"
+    },
+    {
+        "id":5,
+        "image":"images/drink.jpg",
+         "name":"Cooling Drinks"
+    },
+    {
+        "id":6,
+        "image":"images/dessert.jpg",
+         "name":"Dessert"
+    },
+    {
+        "id":7,
+        "image":"images/pizza.jpg",
+         "name":"Pizza"
+    },
+    {
+        "id":8,
+        "image":"images/burger.jpg",
+         "name":"Burgers"
+    },
+    {
+        "id":9,
+        "image":"images/breads.jpg",
+         "name":"Breads"
+    }
+
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "id":1,
+        "image":"chocolate.jpg",
+        "price":"Rs 200",
+        "name":"Special Chicken starter",
+        "amount":1
+    },
+    {
+        "id":2,
+        "image":"noodles.jpg",
+        "price":"Rs 400",
+         "name":"Italian Noodles",
+         "amount":1
+    },
+    {
+        "id":3,
+        "image":"fries.jpg",
+        "price":"Rs 250",
+         "name":"Crispy Fries",
+         "amount":1
+    },
+    {
+        "id":4,
+        "image":"pasta.jpg",
+        "price":"Rs 350",
+         "name":"White Sauce Pasta",
+         "amount":1
+    },
+    {
+        "id":5,
+        "image":"desi.jpg",
+        "price":"Rs 500",
+         "name":"The whole indian meal",
+         "amount":1
+    },
+    {
+        "id":6,
+        "image":"bg.jpg",
+        "price":"Rs 250",
+         "name":"Cheese veg burger",
+         "amount":1
+    },
+    {
+        "id":7,
+        "image":"chicken.jpg",
+        "price":"Rs 450",
+         "name":"Special chicken",
+         "amount":1
+    },
+    {
+        "id":8,
+        "image":"meal.jpg",
+        "price":"Rs 300",
+         "name":"The whole Sweeten healthy meal",
+         "amount":1
+    },
+    {
+        "id":9,
+        "image":"egg.jpg",
+        "price":"Rs 250",
+         "name":"The Eggian eggs",
+         "amount":1
+    },
+    {
+        "id":10,
+        "image":"dalchawal.jpg",
+        "price":"Rs 350",
+         "name":"Dal Rice Meal",
+         "amount":1
+    },
+    {
+        "id":11,
+        "image":"saladd.jpg",
+        "price":"Rs 300",
+         "name":"Healthy meal salad",
+         "amount":1
+    },
+    {
+        "id":12,
+        "image":"momo.jpg",
+        "price":"Rs 350",
+         "name":"Soupy momos",
+         "amount":1
+    }
+
+]

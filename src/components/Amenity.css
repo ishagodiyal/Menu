@@ -1,0 +1,87 @@
+/* Main container */
+.allover {
+  background-color: black;
+  min-height: 100vh; /* Minimum height set to viewport height */
+  display: flex;
+  justify-content: center; /* Center the pink box horizontally */
+  align-items: center; /* Center the pink box vertically */
+  box-sizing: border-box;
+  padding: 0; /* Remove excessive padding */
+}
+
+/* Content container */
+.allcontent {
+  background-color: pink;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.heading1 {
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Comic Sans MS', Comic Sans, cursive;
+  margin: 0;
+  padding: 10px 0;
+  color: black;
+}
+
+/* Amenity container */
+.amenity {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  padding: 10px;
+}
+
+/* Icon styles */
+.font {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+/* SVG styles */
+.amenity svg {
+  width: 50px;
+  height: 50px;
+}
+
+/* Text below icons */
+h5 {
+  margin: 0;
+  padding: 5px 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+/* Responsive styles for screens up to 480px */
+@media (max-width: 480px) {
+  .allover {
+    padding: 20px; /* Adjust padding for extra height */
+    min-height: 120vh; /* Increase minimum height to make black area taller */
+  }
+
+  .allcontent {
+    padding: 15px;
+  }
+
+  .heading1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .amenity {
+    gap: 10px;
+    padding: 10px;
+  }
+}

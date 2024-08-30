@@ -1,0 +1,66 @@
+.homepage{
+    background: url('./images/body.jpg') no-repeat;
+    min-height: 90vh;
+    position: relative;
+    background-size: cover;
+    margin:0;
+    padding: 0;
+    align-items: center;
+
+  }
+ 
+  .home_tittle{
+color: white;
+position: absolute;
+top: 40%;
+left:5%;
+font-weight: 500;
+font-size: xx-large;
+font-family: Comic Sans MS, Comic Sans, cursive;
+
+ 
+  }
+  .btn1{
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    height: 50px;
+    width:250px;
+    font-size: x-large;
+  }
+ .btn1:hover{
+    background-color: green;
+    color: white;
+   
+  }
+
+  
+  @media (max-width: 1024px){
+    .homepage{
+      background-position:right;
+       width: 100%;
+     
+        position: fixed;
+       }
+  }
+
+  @media (max-width: 768px){
+    .homepage{
+   background-position:right;
+    width: 100%;
+  
+     position: fixed;
+    }
+    .home_tittle{
+      margin-top: -10%;
+    }
+}
+@media (max-width: 480px){
+  
+  .home_tittle{
+    font-size: small;
+    margin-top: -10%;
+  }
+ 
+  }
+
