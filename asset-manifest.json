@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ishagodiyal/Menu/static/css/main.b2a8652d.css",
+    "main.js": "/ishagodiyal/Menu/static/js/main.26811d0f.js",
+    "static/js/453.6097658f.chunk.js": "/ishagodiyal/Menu/static/js/453.6097658f.chunk.js",
+    "static/media/body.jpg": "/ishagodiyal/Menu/static/media/body.667a3f366bc8eeb235c9.jpg",
+    "static/media/about1.jpg": "/ishagodiyal/Menu/static/media/about1.b033d9f58e0cb706a2fd.jpg",
+    "static/media/pasta.jpg": "/ishagodiyal/Menu/static/media/pasta.bc5697306239d9f7827b.jpg",
+    "static/media/starter.jpg": "/ishagodiyal/Menu/static/media/starter.137c23bcc49065c65de3.jpg",
+    "static/media/nonveg.jpg": "/ishagodiyal/Menu/static/media/nonveg.d669174328dd2f0bede7.jpg",
+    "static/media/pizza.jpg": "/ishagodiyal/Menu/static/media/pizza.e19072f7cc33058d74f1.jpg",
+    "static/media/login.jpg": "/ishagodiyal/Menu/static/media/login.b1cf0540681bd08fdfe1.jpg",
+    "static/media/drink.jpg": "/ishagodiyal/Menu/static/media/drink.d46ec8312590c797a167.jpg",
+    "static/media/fries.jpg": "/ishagodiyal/Menu/static/media/fries.df9e9d02b7b327445f71.jpg",
+    "static/media/breads.jpg": "/ishagodiyal/Menu/static/media/breads.0aad54a1e9132443d158.jpg",
+    "static/media/burger.jpg": "/ishagodiyal/Menu/static/media/burger.2b824bfa78a232373f4a.jpg",
+    "static/media/salad.jpg": "/ishagodiyal/Menu/static/media/salad.5119fe6aabfdcffb86b1.jpg",
+    "static/media/saladd.jpg": "/ishagodiyal/Menu/static/media/saladd.54f8ab4d32486871f72a.jpg",
+    "static/media/dalchawal.jpg": "/ishagodiyal/Menu/static/media/dalchawal.4e2b4c91679ae5e935ca.jpg",
+    "static/media/momo.jpg": "/ishagodiyal/Menu/static/media/momo.813de92a8ba842d76dec.jpg",
+    "static/media/veget.jpg": "/ishagodiyal/Menu/static/media/veget.671acb7c177a2f965343.jpg",
+    "static/media/desi.jpg": "/ishagodiyal/Menu/static/media/desi.ae88a0704b6edbb258b4.jpg",
+    "static/media/egg.jpg": "/ishagodiyal/Menu/static/media/egg.2eaf4775396791a72dc7.jpg",
+    "static/media/chocolate.jpg": "/ishagodiyal/Menu/static/media/chocolate.fc91db93fbe1d3800853.jpg",
+    "static/media/noodles.jpg": "/ishagodiyal/Menu/static/media/noodles.3e35623e974f230739b0.jpg",
+    "static/media/bg.jpg": "/ishagodiyal/Menu/static/media/bg.c2e501ea3aee64ab3c53.jpg",
+    "static/media/chicken.jpg": "/ishagodiyal/Menu/static/media/chicken.8281be4661f674d6c633.jpg",
+    "static/media/dessert.jpg": "/ishagodiyal/Menu/static/media/dessert.f34df757ed5567a409ca.jpg",
+    "static/media/meal.jpg": "/ishagodiyal/Menu/static/media/meal.962c1a6888bcfba2567d.jpg",
+    "static/media/servelogo.png": "/ishagodiyal/Menu/static/media/servelogo.ba9044e77d1aa45bb4d2.png",
+    "static/media/logo.png": "/ishagodiyal/Menu/static/media/logo.7fdd89039476c4f53331.png",
+    "index.html": "/ishagodiyal/Menu/index.html",
+    "main.b2a8652d.css.map": "/ishagodiyal/Menu/static/css/main.b2a8652d.css.map",
+    "main.26811d0f.js.map": "/ishagodiyal/Menu/static/js/main.26811d0f.js.map",
+    "453.6097658f.chunk.js.map": "/ishagodiyal/Menu/static/js/453.6097658f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a8652d.css",
+    "static/js/main.26811d0f.js"
+  ]
+}
