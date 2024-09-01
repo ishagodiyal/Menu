@@ -54,6 +54,8 @@ display: flex;
     }
     .inner_words{
         justify-content: start;
+        font-size: large;
+        margin-left: -1px;
 
     }
 }

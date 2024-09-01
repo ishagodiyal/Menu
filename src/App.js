@@ -32,14 +32,19 @@ function App() {
         {  path:"/Login",
           element:<><NavBar/><Login/></>
         },
-       ])
+       ],
+       {
+        basename:"/Menu"
+
+       }
+      );
 
   return (
-  <>
+
  
 
   <RouterProvider router={router}/>
-  </>
+
     
   );
 }

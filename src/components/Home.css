@@ -58,9 +58,16 @@ font-family: Comic Sans MS, Comic Sans, cursive;
 @media (max-width: 480px){
   
   .home_tittle{
-    font-size: small;
-    margin-top: -10%;
+    font-size: medium;
+    margin-top: -40%;
+    font-weight: 600;
+    color :white;
   }
- 
+  .btn1{
+    height: 30px;
+    width:200px;
+    font-size: medium;
+    
+  }
   }
 
